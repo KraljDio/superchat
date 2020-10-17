@@ -24,6 +24,8 @@
 
 ## Guidelines
 
+- Add your own firebase Config.
+
 <hr>
 
 ## React
