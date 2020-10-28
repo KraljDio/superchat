@@ -2,7 +2,7 @@
 
 - A super chat App in React with Firebase.
 
-## stuffs used
+## Stuffs used
 
 - React
 - Firebase
@@ -27,6 +27,10 @@
 - Add your own firebase Config.
 
 <hr>
+
+### `npm install`
+
+- To install all the dependencies required for superchat.
 
 ## React
 
